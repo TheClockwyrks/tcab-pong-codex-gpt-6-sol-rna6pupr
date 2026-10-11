@@ -1,0 +1,11 @@
+[[media]]
+file = "rally.png"
+name = "A live rally around the barriers"
+
+[[media]]
+file = "title.png"
+name = "Choose Solo or Versus"
+
+[[media]]
+file = "pause.png"
+name = "Pause between shots"
